@@ -21,7 +21,7 @@ LangConverter 是一个基于 DeepSeek API 的代码语言转换工具，可以�
 ### 1. 克隆项目
 
 ```bash
-git clone <项目地址>
+git clone https://github.com/lcxg-dev/ArchMind
 cd lang-converter
 ```
 
